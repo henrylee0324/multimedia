@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "/"
 languageCode = "en-US"
 title = "多媒體製作 Multimedia Make"
 theme = "split-theme"
@@ -40,8 +40,8 @@ copyright = "&copy;2021 Li Cheng-Shuan"
       enable = true
       mute = false
       position = "center center"
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
+      # file = "videos/background.mp4"
+      youtubeId = "https://youtu.be/bS_HNORPMEU"
 
   # Links
   #
